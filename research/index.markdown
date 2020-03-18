@@ -12,7 +12,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Submitted Journal Publications</h1>
 
-Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C. I., and Huang, C. Y. (2019). "Justice as Fairness in Monkeys: Linking Choices Behind and in Front of the Veil of Ignorance". Submitted to *Nature Communications*.
+Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C. I., and Huang, C. Y. (2020). "On Morality in Monkeys". Submitted to *eLife*.
 
 <h1>Work in Progress</h1>
 
