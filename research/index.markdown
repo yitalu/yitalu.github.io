@@ -16,7 +16,7 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C.
 
 <h1>Work in Progress</h1>
 
-"An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov.
+"An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
 "Partisanship, Polarization, and Inequality Over Time" with Matthew Lebo and Gregory Koger.
 
