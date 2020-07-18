@@ -21,6 +21,6 @@ title: Teaching
 
 <h1>Department of Economics, National Taiwan University</h1>
 
-Neuroeconomics (Teaching Assistant, with Prof. Chen-Ying Huang), Spring 2014
+Neuroeconomics (Teaching Assistant, with Chen-Ying Huang), Spring 2014
 
 <!-- <a href ="https://yitalu.github.io/pdf/google60d81d609a7121cc.html.txt">Google Search Console</a> -->
