@@ -19,4 +19,8 @@ title: Teaching
 
 <a href ="https://yitalu.github.io/pdf/Syllabus_POL101_Summer2018.pdf">POL101 World Politics Summer 2018</a>
 
+<h1>Department of Economics, National Taiwan University</h1>
+
+Neuroeconomics (Teaching Assistant, with Prof. Chen-Ying Huang), Spring 2014
+
 <!-- <a href ="https://yitalu.github.io/pdf/google60d81d609a7121cc.html.txt">Google Search Console</a> -->
