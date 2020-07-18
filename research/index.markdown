@@ -20,8 +20,10 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C.
 
 "Partisanship, Polarization, and Inequality Over Time" with Matthew Lebo and Gregory Koger.
 
-"Trust, Inequality and Redistributive Demands in Latin America" with Robert Vidigal.
+"Followership and Misinformation Credibility on Twitter During the Pandemic" with Inyoung Shin and Luxuan Wang
+
+"Group Cooperation in the Context of Climate Negotiation: An Agent-Based Model" with Oleg Smirnov.
 
 "Does Media Bias Cause Political Polarization? an Agent-Based Model of Biased Media, Motivated Reasoners, and Political Polarization" (single author).
 
-"Group Cooperation in the Context of Climate Negotiation: An Agent-Based Model" with Oleg Smirnov.
+"Trust, Inequality and Redistributive Demands in Latin America" with Robert Vidigal.
