@@ -10,20 +10,20 @@ Chung, H. K., Sjöström, T., Lee, H. J., Lu, Y. T., Tsuo, F. Y., Chen, T. S., .
 Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062401">Fluctuation Relations Between Hierarchical Kinetically Equivalent Networks With Arrhenius-Type Transitions and Their Roles in Systems and Structural Biology</a>. *Physical Review E*, 95(6), 062401.
 
 
-<h1>Submitted Journal Publications</h1>
+<h1>Working Papers</h1>
 
 Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C. I., and Huang, C. Y. (2020). "On Morality in Monkeys". Submitted to *eLife*.
 
-<h1>Work in Progress</h1>
-
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
-
-"Partisanship, Polarization, and Inequality Over Time" with Matthew Lebo and Gregory Koger.
-
-"Followership and Misinformation Credibility on Twitter During the Pandemic" with Inyoung Shin and Luxuan Wang
-
-"Group Cooperation in the Context of Climate Negotiation: An Agent-Based Model" with Oleg Smirnov.
 
 "Does Media Bias Cause Political Polarization? an Agent-Based Model of Biased Media, Motivated Reasoners, and Political Polarization" (single author).
 
 "Trust, Inequality and Redistributive Demands in Latin America" with Robert Vidigal.
+
+<h1>Work in Progress</h1>
+
+"Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" with Oleg Smirnov.
+
+"Followership and Misinformation Credibility on Twitter During the Pandemic" with Inyoung Shin and Luxuan Wang
+
+"Partisanship, Polarization, and Inequality Over Time" with Matthew Lebo and Gregory Koger.
