@@ -5,7 +5,7 @@ title: Teaching
 
 <h1>Department of Political Science, Stony Brook University</h1>
 
-<a href ="https://yitalu.github.io/pdf/Syllabus_POL101_Spring2021_Jan24.pdf">POL101 World Politics Spring 2021</a>
+<a href ="https://yitalu.github.io/pdf/Syllabus_POL101_Spring2021_Jan31.pdf">POL101 World Politics Spring 2021</a>
 
 <a href ="https://yitalu.github.io/pdf/Syllabus_POL101_Winter2021_Dec29.pdf">POL101 World Politics Winter 2021</a>
 
