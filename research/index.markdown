@@ -18,7 +18,7 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C.
 
 "Does Media Bias Cause Political Polarization? an Agent-Based Model of Biased Media, Motivated Reasoners, and Political Polarization" (single author).
 
-"Twitter and Endorsed Misinformation: Retweeting, Bandwagon Cues, and the Conspiracy Theory during COVID-19" with Inyoung Shin and Luxuan Wang.
+"Endorsed Misinformation on Twitter: Retweeting, Bandwagon Cues, and the Conspiracy Theory during COVID-19" with Inyoung Shin and Luxuan Wang.
 
 "Trust, Inequality and Redistributive Demands in Latin America" with Robert Vidigal.
 
