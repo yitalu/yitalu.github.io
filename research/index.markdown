@@ -18,12 +18,12 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C.
 
 "Does Media Bias Cause Political Polarization? an Agent-Based Model of Biased Media, Motivated Reasoners, and Political Polarization" (single author).
 
+"Twitter and Endorsed Misinformation: Retweeting, Bandwagon Cues, and the Conspiracy Theory during COVID-19" with Inyoung Shin and Luxuan Wang.
+
 "Trust, Inequality and Redistributive Demands in Latin America" with Robert Vidigal.
 
 <h1>Work in Progress</h1>
 
 "Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" with Oleg Smirnov.
-
-"Followership and Misinformation Credibility on Twitter During the Pandemic" with Inyoung Shin and Luxuan Wang
 
 "Partisanship, Polarization, and Inequality Over Time" with Matthew Lebo and Gregory Koger.
