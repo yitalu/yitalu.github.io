@@ -12,9 +12,9 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Working Papers</h1>
 
-Shin, I., Wang, L., & Lu, Y. T. (2021). Endorsed Misinformation on Twitter: Retweeting, Bandwagon Cues, and the Conspiracy Theory during COVID-19. Submitted to *International Journal of Communication*.
+Shin, I., Wang, L., & Lu, Y. T. (2021). Endorsed Misinformation on Twitter: Retweeting, Bandwagon Cues, and the Conspiracy Theory during COVID-19. *Submitted*.
 
-Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C. I., and Huang, C. Y. (2020). On Morality in Monkeys. Submitted to *eLife*.
+Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C. I., and Huang, C. Y. (2021). Choices Behind the Veil of Ignorance in Formosan Macaques. *Submitted*.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
@@ -26,4 +26,4 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Wu, S. W., Yeh, C.
 
 "Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" with Oleg Smirnov.
 
-"Partisanship, Polarization, and Inequality Over Time" with Matthew Lebo and Gregory Koger.
+"Income Inequality and Partisan Polarization" with Matthew Lebo and Gregory Koger.
