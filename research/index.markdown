@@ -14,7 +14,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 Shin, I., Wang, L., & Lu, Y. T. (2021). Endorsed Misinformation on Twitter: Retweeting, Bandwagon Cues, and the Conspiracy Theory during COVID-19. *Submitted*.
 
-Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., and Huang, C. Y. (2021). Choices Behind the Veil of Ignorance in Formosan Macaques. *Submitted*.
+Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (2021). Choices Behind the Veil of Ignorance in Formosan Macaques. *Submitted*.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
