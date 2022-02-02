@@ -12,7 +12,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Working Papers</h1>
 
-Shin, I., Wang, L., & Lu, Y. T. (2021). Twitter and Endorsed (Fake) News: The Effects of Friend, Celebrity, and Bandwagon Endorsement on Conspiracy Theory Credibility During the COVID-19 Pandemic. *Conditionally Accepted*.
+Shin, I., Wang, L., & Lu, Y. T. (2022). Twitter and Endorsed (Fake) News: The Effects of Friend, Celebrity, and Bandwagon Endorsement on Conspiracy Theory Credibility During the COVID-19 Pandemic. *Conditionally Accepted*.
 
 Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (2021). Choices Behind the Veil of Ignorance in Formosan Macaques. *Submitted*.
 
