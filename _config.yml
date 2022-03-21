@@ -1,6 +1,6 @@
 name: Yi-Ta Lu
 url: http://example.org
-description: Ph.D., Stony Brook University
+description: Ph.D., State University of New York at Stony Brook
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
