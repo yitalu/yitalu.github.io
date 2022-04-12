@@ -14,7 +14,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Working Papers</h1>
 
-Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. Choices Behind the Veil of Ignorance in Formosan Macaques. *Submitted*.
+Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (*Submitted*). Choices Behind the Veil of Ignorance in Formosan Macaques.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
