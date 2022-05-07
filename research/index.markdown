@@ -5,7 +5,7 @@ title: Research
 
 <h1>Publications</h1>
 
-Shin, I., Wang, L., & Lu, Y. T. (*Forthcoming*). Twitter and Endorsed (Fake) News: The Influence of Endorsement by Strong Ties, Celebrities, and a User Majority on Credibility of Fake News During the COVID-19 Pandemic. *International Journal of Communication*.
+Shin, I., Wang, L., & Lu, Y. T. (2022). <a href="https://ijoc.org/index.php/ijoc/article/view/18187">Twitter and Endorsed (Fake) News: The Influence of Endorsement by Strong Ties, Celebrities, and a User Majority on Credibility of Fake News During the COVID-19 Pandemic</a>. *International Journal of Communication*, 16, 23.
 
 Chung, H. K., Sjöström, T., Lee, H. J., Lu, Y. T., Tsuo, F. Y., Chen, T. S., ... & Huang, C. Y. (2017). <a href="http://www.jneurosci.org/content/37/48/11647">Why Do Irrelevant Alternatives Matter? an FMRI-TMS Study of Context-Dependent Preferences</a>. *Journal of Neuroscience*, 37(48), 11647-11661.
 
