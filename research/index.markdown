@@ -26,6 +26,8 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huan
 
 "Reproduction and Social Mobility" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
+"Fertility Transitions" with Heidi Colleran. *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
+
 "Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" with Oleg Smirnov.
 
 "Income Inequality and Partisan Polarization" with Matthew Lebo and Gregory Koger.
