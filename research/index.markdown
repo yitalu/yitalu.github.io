@@ -24,7 +24,7 @@ Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huan
 
 <h1>Work in Progress</h1>
 
-"Reproduction and Social Mobility" with Heidi Colleran, Anne Kandler, and Adam Powell.
+"The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
 "Fertility Transitions" with Heidi Colleran. *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
 
