@@ -14,22 +14,18 @@ Chung, H. K., Sjöström, T., Lee, H. J., Lu, Y. T., Tsuo, F. Y., Chen, T. S., .
 Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062401">Fluctuation Relations Between Hierarchical Kinetically Equivalent Networks With Arrhenius-Type Transitions and Their Roles in Systems and Structural Biology</a>. *Physical Review E*, *95*(6), 062401.
 
 
-<h1>Working Papers</h1>
+<h1>Work in Progress</h1>
 
+Lu, Y. T. & Colleran, H. (Forthcoming) "Fertility Transitions" in *The Oxford Handbook of Cultural Evolution*, edited by R. Kendal, J. Tehrani and J. Kendal.
 
+"The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
+
+"Income Inequality and Partisan Polarization" with Matthew Lebo and Gregory Koger.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
+
+"Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" (single author).
 
 "Does Media Bias Cause Political Polarization? an Agent-Based Model of Biased Media, Motivated Reasoners, and Political Polarization" (single author).
 
 "Trust, Inequality and Redistributive Demands in Latin America" with Robert Vidigal.
-
-<h1>Work in Progress</h1>
-
-"The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
-
-"Fertility Transitions" with Heidi Colleran. *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
-
-"Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" with Oleg Smirnov.
-
-"Income Inequality and Partisan Polarization" with Matthew Lebo and Gregory Koger.
