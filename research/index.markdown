@@ -20,7 +20,7 @@ Lu, Y. T. & Colleran, H. (*Forthcoming*) "Fertility Transitions" in *The Oxford 
 
 "The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
-"Income Inequality and Partisan Polarization" with Matthew Lebo and Gregory Koger.
+"Congress's Role in Concentrating Wealth in America" with Matthew Lebo and Gregory Koger.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
