@@ -5,6 +5,8 @@ title: Research
 
 <h1>Publications</h1>
 
+Lu, Y. T. & Colleran, H. (*Forthcoming*). Fertility Transitions. In R. Kendal, J. Tehrani and J. Kendal (Eds.), *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
+
 Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (2022). <a href="https://doi.org/10.1093/pnasnexus/pgac188">Choices Behind the Veil of Ignorance in Formosan Macaques</a>. *PNAS Nexus*, *1*(4), pgac188.
 
 Shin, I., Wang, L., & Lu, Y. T. (2022). <a href="https://ijoc.org/index.php/ijoc/article/view/18187">Twitter and Endorsed (Fake) News: The Influence of Endorsement by Strong Ties, Celebrities, and a User Majority on Credibility of Fake News During the COVID-19 Pandemic</a>. *International Journal of Communication*, *16*, 23.
@@ -15,8 +17,6 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 
 <h1>Work in Progress</h1>
-
-Lu, Y. T. & Colleran, H. (*Forthcoming*) "Fertility Transitions" in *The Oxford Handbook of Cultural Evolution*, edited by R. Kendal, J. Tehrani and J. Kendal.
 
 "The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
