@@ -20,7 +20,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 "The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
-"Congress's Role in Concentrating Wealth in America" with Matthew Lebo and Gregory Koger.
+"Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
