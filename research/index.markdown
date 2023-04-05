@@ -5,7 +5,7 @@ title: Research
 
 <h1>Publications</h1>
 
-Lu, Y. T., & Colleran, H. (*Forthcoming*). Fertility Transitions. In R. Kendal, J. Tehrani, & J. Kendal (Eds.), *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
+Lu, Y. T., & Colleran, H. (*Forthcoming*). <a href="https://yitalu.github.io/pdf/lu_colleran_fertility_transitions.pdf">Fertility Transitions</a>. In R. Kendal, J. Tehrani, & J. Kendal (Eds.), *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
 
 Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (2022). <a href="https://doi.org/10.1093/pnasnexus/pgac188">Choices Behind the Veil of Ignorance in Formosan Macaques</a>. *PNAS Nexus*, *1*(4), pgac188.
 
