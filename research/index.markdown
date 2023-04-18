@@ -22,6 +22,8 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 "Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
 
+"Monitoring of Over the Counter (OTC) and COVID-19 Treatment Drugs Complement Wastewater Surveillance of Sars-Cov-2" with Lee et al.
+
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
 "Policy Cooperation Under Threats: Effects of Competition Between Interest Groups" (single author).
