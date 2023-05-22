@@ -18,7 +18,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Work in Progress</h1>
 
-"The Coevolution of Human Fertility and Wealth Stratification" with Heidi Colleran, Anne Kandler, and Adam Powell.
+"The Origin of Human Fertility Decline" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
 "Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
 
