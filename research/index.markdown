@@ -7,6 +7,8 @@ title: Research
 
 Lu, Y. T., & Colleran, H. (*Forthcoming*). <a href="https://yitalu.github.io/pdf/lu_colleran_fertility_transitions.pdf">Fertility Transitions</a>. In J. Tehrani, J. Kendal, & R. Kendal (Eds.), *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
 
+Lee, C. S., Wang, M., Nanjappa, D., Lu, Y. T., Meliker, J., Clouston, S., Gobler, C. J., & Venkatesan, A. K. (*Forthcoming*). Monitoring of Over the Counter (OTC) and COVID-19 Treatment Drugs Complement Wastewater Surveillance of Sars-Cov-2. *Journal Of Exposure Science And Environmental Epidemiology*.
+
 Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (2022). <a href="https://doi.org/10.1093/pnasnexus/pgac188">Choices Behind the Veil of Ignorance in Formosan Macaques</a>. *PNAS Nexus*, *1*(4), pgac188.
 
 Shin, I., Wang, L., & Lu, Y. T. (2022). <a href="https://ijoc.org/index.php/ijoc/article/view/18187">Twitter and Endorsed (Fake) News: The Influence of Endorsement by Strong Ties, Celebrities, and a User Majority on Credibility of Fake News During the COVID-19 Pandemic</a>. *International Journal of Communication*, *16*, 23.
@@ -21,8 +23,6 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 "The Origin of Human Fertility Decline" with Heidi Colleran, Anne Kandler, and Adam Powell.
 
 "Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
-
-"Monitoring of Over the Counter (OTC) and COVID-19 Treatment Drugs Complement Wastewater Surveillance of Sars-Cov-2" with Lee et al.
 
 "An Agent-Based Model of Elections with Endogenous Candidates, Voters, and Media" with Oleg Smirnov and John Barry Ryan.
 
