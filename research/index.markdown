@@ -20,7 +20,7 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Work in Progress</h1>
 
-"The Origin of Human Fertility Decline" with Heidi Colleran.
+"The Inheritance of Wealth and Allocation Strategy in Human Fertility Decline" with Heidi Colleran.
 
 "Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
 
