@@ -7,7 +7,7 @@ title: Research
 
 Lu, Y. T., & Colleran, H. (*Forthcoming*). <a href="https://yitalu.github.io/pdf/lu_colleran_fertility_transitions.pdf">Fertility Transitions</a>. In J. Tehrani, J. Kendal, & R. Kendal (Eds.), *The Oxford Handbook of Cultural Evolution*. Oxford University Press.
 
-Lee, C. S., Wang, M., Nanjappa, D., Lu, Y. T., Meliker, J., Clouston, S., Gobler, C. J., & Venkatesan, A. K. (2023). Monitoring of Over the Counter (OTC) and COVID-19 Treatment Drugs Complement Wastewater Surveillance of Sars-Cov-2. *Journal Of Exposure Science And Environmental Epidemiology*.
+Lee, C. S., Wang, M., Nanjappa, D., Lu, Y. T., Meliker, J., Clouston, S., Gobler, C. J., & Venkatesan, A. K. (2023). <a href="https://doi.org/10.1038/s41370-023-00613-2">Monitoring of Over the Counter (OTC) and COVID-19 Treatment Drugs Complement Wastewater Surveillance of Sars-Cov-2</a>. *Journal Of Exposure Science And Environmental Epidemiology*.
 
 Lu, Y. T., Hwang, W. H., Hsieh, Y. T., Ho, T. Y., Zhu, J. D., Yeh, C. I., & Huang, C. Y. (2022). <a href="https://doi.org/10.1093/pnasnexus/pgac188">Choices Behind the Veil of Ignorance in Formosan Macaques</a>. *PNAS Nexus*, *1*(4), pgac188.
 
