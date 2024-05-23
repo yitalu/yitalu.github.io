@@ -5,7 +5,7 @@ title: Research
 
 <h1>Publications</h1>
 
-Lu, Y. T., & Colleran, H. (in press). <a href="https://doi.org/10.1093/oxfordhb/9780198869252.013.57">Fertility Transitions</a>. In J. Tehrani, J. Kendal, & R. Kendal (Eds.), <a href="https://doi.org/10.1093/oxfordhb/9780198869252.001.0001">*The Oxford Handbook of Cultural Evolution*</a>. Oxford University Press. [<a href="https://yitalu.github.io/pdf/Lu_and_Colleran_2024_Fertility_Transitions.pdf">pdf</a>][<a href="https://yitalu.github.io/pdf/lu_colleran_fertility_transitions.pdf">manuscript</a>]
+Lu, Y. T., & Colleran, H. (in press). <a href="https://doi.org/10.1093/oxfordhb/9780198869252.013.57">Fertility Transitions</a>. In J. Tehrani, J. Kendal, & R. Kendal (Eds.), <a href="https://doi.org/10.1093/oxfordhb/9780198869252.001.0001">*The Oxford Handbook of Cultural Evolution*</a>. Oxford University Press. [<a href="https://yitalu.github.io/pdf/Lu_and_Colleran_2024_Fertility_Transitions.pdf">pdf</a>] [<a href="https://yitalu.github.io/pdf/lu_colleran_fertility_transitions.pdf">manuscript</a>]
 
 Lee, C. S., Wang, M., Nanjappa, D., Lu, Y. T., Meliker, J., Clouston, S., Gobler, C. J., & Venkatesan, A. K. (2023). <a href="https://doi.org/10.1038/s41370-023-00613-2">Monitoring of Over the Counter (OTC) and COVID-19 Treatment Drugs Complement Wastewater Surveillance of Sars-Cov-2</a>. *Journal Of Exposure Science And Environmental Epidemiology*.
 
