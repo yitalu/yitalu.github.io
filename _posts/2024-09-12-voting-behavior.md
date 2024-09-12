@@ -7,7 +7,7 @@ categories: jekyll update
 
 This is an analysis on voting behavior in American politics, using ANES survey data.
 
-Jekyll also offers powerful support for code snippets:
+start with the code:
 
 {% highlight ruby %}
 def print_hi(name)
