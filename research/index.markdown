@@ -20,7 +20,9 @@ Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org
 
 <h1>Work in Progress</h1>
 
-"The Inheritance of Wealth and Allocation Strategy in Human Fertility Decline" with Heidi Colleran.
+"Cultural Inheritance Determines the Emergence and Diffusion of Low Fertility in Wealth-Inheriting Populations" with Heidi Colleran.
+
+"Does Inter-Generational Social Mobility Explain Human Fertility Decline? A Classic Model Fails to Replicate" with Heidi Colleran.
 
 "Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
 
