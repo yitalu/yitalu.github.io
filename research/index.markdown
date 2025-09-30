@@ -18,11 +18,14 @@ Chung, H. K., Sjöström, T., Lee, H. J., Lu, Y. T., Tsuo, F. Y., Chen, T. S., .
 Deng, D. M., Lu, Y. T., & Chang, C. H. (2017). <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062401">Fluctuation Relations Between Hierarchical Kinetically Equivalent Networks With Arrhenius-Type Transitions and Their Roles in Systems and Structural Biology</a>. *Physical Review E*, *95*(6), 062401.
 
 
-<h1>Work in Progress</h1>
+<h1>Working Papers</h1>
 
 "Cultural Inheritance Determines the Emergence and Diffusion of Low Fertility in Wealth-Inheriting Populations" with Heidi Colleran.
 
 "Does Inter-Generational Social Mobility Explain Human Fertility Decline? A Classic Model Fails to Replicate" with Heidi Colleran.
+
+
+<h1>Works in Progress</h1>
 
 "Congress's Role in Concentrating Wealth in the United States" with Matthew Lebo and Gregory Koger.
 
