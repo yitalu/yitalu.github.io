@@ -3,4 +3,4 @@ layout: default
 title: CV
 ---
 
-<a href ="https://yitalu.github.io/pdf/cv_lu_sep2025.pdf">Curriculum Vitae (Sep 2025)</a>
+<a href ="https://yitalu.github.io/pdf/cv_lu_aug2026.pdf">Curriculum Vitae (Aug 2026)</a>
