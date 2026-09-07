@@ -3,6 +3,12 @@ layout: default
 title: Teaching
 ---
 
+<h1>Department of Political Science, National Cheng Kung University</h1>
+
+<a href ="https://yitalu.github.io/pdf/syllabus_pe6011_fall2026_fulltime.pdf">PE6011 Political Economy Fall 2026 (Full Time Program)</a>
+
+<a href ="https://yitalu.github.io/pdf/syllabus_pe6011_fall2026_parttime.pdf">PE6011 Political Economy Fall 2026 (Part Time Program)</a>
+
 <h1>Department of Political Science, Stony Brook University</h1>
 
 <a href ="https://yitalu.github.io/pdf/Syllabus_POL101_Spring2021_Jan31.pdf">POL101 World Politics Spring 2021</a>
